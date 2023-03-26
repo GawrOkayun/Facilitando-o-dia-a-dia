@@ -1,0 +1,13 @@
+{
+  "name": "facilitando_o_dia_a_dia",
+  "version": "1.0.0",
+  "description": "Projeto Individual Módulo 5",
+  "main": "(index.js) index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "node": "^19.8.1",
+    "nodemon": "^2.0.20"
+  }
+}
